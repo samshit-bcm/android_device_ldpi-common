@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+**
+** Copyright 2012, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License")
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<com.android.internal.policy.impl.keyguard.KeyguardWidgetFrame
+    xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="center_horizontal"
+	android:id="@+id/keyguard_status_view"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:layout_maxHeight="300dp"
+	android:layout_maxWidth="@dimen/keyguard_security_width">
+
+    <com.android.internal.policy.impl.keyguard.KeyguardStatusView
+        android:gravity="top|center"
+        android:orientation="vertical"
+        android:id="@+id/keyguard_status_view_face_palm"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/keyguard_accessibility_status">
+
+		<LinearLayout
+            android:layout_gravity="top|center"
+            android:orientation="vertical"
+            android:focusable="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <com.android.internal.policy.impl.keyguard.ClockView
+                android:layout_gravity="center"
+                android:id="@+id/clock_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/kg_status_line_font_right_margin">
+
+                <TextView
+                android:textAppearance="?textAppearanceMedium"
+                android:textSize="65dp"
+                android:textColor="#ffffffff"
+                android:ellipsize="none"
+                android:id="@+id/clock_text"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-20dp"
+                android:singleLine="true"
+                android:drawablePadding="2dp" />
+
+            </com.android.internal.policy.impl.keyguard.ClockView>
+
+            <include layout="@layout/keyguard_status_area" />
+        </LinearLayout>
+
+    </com.android.internal.policy.impl.keyguard.KeyguardStatusView>
+
+</com.android.internal.policy.impl.keyguard.KeyguardWidgetFrame>

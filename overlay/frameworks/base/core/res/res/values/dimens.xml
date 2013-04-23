@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="thumbnail_width">240dp</dimen>
-
-    <dimen name="thumbnail_height">240dp</dimen>
-
-    <!-- Size of clock font in LockScreen on Unsecure unlock screen.
-    <dimen name="keyguard_lockscreen_clock_font_size">40dip</dimen> -->
-
-    <!-- Height of the bottom navigation / system bar. -->
-    <dimen name="navigation_bar_height">32dp</dimen>
-
-    <!-- Height of the bottom navigation bar in portrait; often the same as @dimen/navigation_bar_height -->
-    <dimen name="navigation_bar_height_landscape">32dp</dimen>
-
-    <!-- Height of the sliding KeyguardSecurityContainer (includes 2x keyguard_security_view_margin) -->
-    <dimen name="keyguard_security_height">240dp</dimen>
-
-    <!-- Size of the region along the edge of the screen that will accept
-         swipes to scroll the widget area. -->
-    <dimen name="kg_edge_swipe_region_size">32dp</dimen>
+    <dimen name="keyguard_lockscreen_outerring_diameter">230dp</dimen>
+    
+	<dimen name="glowpadview_target_placement_radius">115.0dp</dimen>
+    
+	<dimen name="glowpadview_glow_radius">60dp</dimen>
+    
+	<dimen name="glowpadview_snap_margin">40dp</dimen>
+    
+	<dimen name="glowpadview_inner_radius">12dp</dimen>
+    
+	<dimen name="keyguard_lockscreen_clock_font_size">60dp</dimen>
+    
+	<dimen name="keyguard_lockscreen_status_line_font_size">13dp</dimen>
+    
+	<dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">0dp</dimen>
+    
+	<dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">0dp</dimen>
+    
+	<dimen name="kg_status_clock_font_size">60dp</dimen>
+    
+	<dimen name="kg_status_date_font_size">14dp</dimen>
+    
+	<dimen name="kg_status_line_font_size">12dp</dimen>
+    
+	<dimen name="kg_status_line_font_right_margin">16dp</dimen>
+    
+	<dimen name="keyguard_security_no_widget_height">400dp</dimen>
+    
+	<dimen name="keyguard_avatar_size">48dp</dimen>
 </resources>
+
