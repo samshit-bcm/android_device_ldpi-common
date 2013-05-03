@@ -11,4 +11,9 @@
 
     <dimen name="navigation_bar_height">29dp</dimen>
     <dimen name="navigation_bar_height_landscape">29dp</dimen>
-</resources>
+	
+	<dimen name="keyguard_lockscreen_outerring_diameter">220.0dip</dimen>
+    <dimen name="glowpadview_target_placement_radius">110.0dip</dimen>
+	
+	<dimen name="keyguard_security_no_widget_height">400dp</dimen>
+</resources>	
