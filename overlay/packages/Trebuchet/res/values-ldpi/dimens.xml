@@ -15,11 +15,9 @@
 -->
 
 <resources>
-    <dimen name="workspace_max_gap">4.0dip</dimen>
-    <dimen name="app_icon_padding_top">2.0dip</dimen>
-    <dimen name="apps_customize_tab_bar_height">40.0dip</dimen>
-    <dimen name="apps_customize_cell_height">85.0dip</dimen>
-    <dimen name="apps_customize_max_gap">4.0dip</dimen>
-    <dimen name="apps_customize_widget_cell_width_gap">4.0dip</dimen>
-    <dimen name="apps_customize_widget_cell_height_gap">4.0dip</dimen>
+	<dimen name="workspace_icon_text_size">12.0sp</dimen>
+    <dimen name="app_icon_size">42.0dip</dimen>
+    <dimen name="folder_preview_size">56.0dip</dimen>
+    <dimen name="folder_icon_padding_top">3.0dip</dimen>
+    <dimen name="app_icon_padding_top">10.0dip</dimen>
 </resources>
