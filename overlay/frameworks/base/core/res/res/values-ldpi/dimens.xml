@@ -9,11 +9,17 @@
     <dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">1dip</dimen>
     <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">1dip</dimen>
 
-    <dimen name="navigation_bar_height">29dp</dimen>
-    <dimen name="navigation_bar_height_landscape">29dp</dimen>
+    <dimen name="navigation_bar_height">29dip</dimen>
+    <dimen name="navigation_bar_height_landscape">29dip</dimen>
 	
 	<dimen name="keyguard_lockscreen_outerring_diameter">220.0dip</dimen>
     <dimen name="glowpadview_target_placement_radius">110.0dip</dimen>
 	
-	<dimen name="keyguard_security_no_widget_height">400dp</dimen>
+	<dimen name="keyguard_security_no_widget_height">382dip</dimen>
+	
+	<dimen name="thumbnail_height">240.0dip</dimen>
+    <dimen name="thumbnail_width">240.0dip</dimen>
+	<dimen name="keyguard_security_height">240dp</dimen>
+	<dimen name="kg_edge_swipe_region_size">32dp</dimen>
+	
 </resources>	
