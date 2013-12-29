@@ -19,6 +19,8 @@ limitations under the License.
 for different hardware and product builds. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <dimen name="widget_big_font_size">54.0dip</dimen>
-    <dimen name="widget_medium_font_size">36.0dip</dimen>
+    <dimen name="widget_medium_font_size">32.0dip</dimen>
     <dimen name="label_font_size">13.0sp</dimen>
+    <dimen name="min_digital_widget_height">100.0dip</dimen>
+    <dimen name="min_digital_weather_height_lock">140dip</dimen>
 </resources>

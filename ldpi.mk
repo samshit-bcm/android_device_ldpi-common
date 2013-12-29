@@ -15,5 +15,5 @@
 # limitations under the License.
 #
 
-#DEVICE_PACKAGE_OVERLAYS += device/ldpi-common/overlay
+DEVICE_PACKAGE_OVERLAYS += device/ldpi-common/overlay
 DEVICE_PACKAGE_OVERLAYS += device/ldpi-common/blank-overlay
