@@ -20,7 +20,12 @@
 <!-- These resources are around just to allow their values to be customized
 for different hardware and product builds. -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <dimen name="widget_big_font_size">54.0dip</dimen>
-    <dimen name="widget_medium_font_size">36.0dip</dimen>
-    <dimen name="label_font_size">13.0sp</dimen>
+    <dimen name="widget_big_font_size">54.0dp</dimen>
+    <dimen name="widget_medium_font_size">30.0dp</dimen>
+    <dimen name="widget_24_medium_font_size">34dp</dimen>
+    <dimen name="min_digital_widget_height">110dp</dimen>
+    <dimen name="min_digital_widget_resize_height">110dp</dimen>
+    <dimen name="digital_widget_list_min_scaled_height">136dp</dimen>
+    <dimen name="digital_widget_list_min_fixed_height">10dp</dimen>
+    <dimen name="digital_widget_list_margin_top">10dp</dimen>
 </resources>

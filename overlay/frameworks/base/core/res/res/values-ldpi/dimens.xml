@@ -1,23 +1,18 @@
 <resources>
-    <dimen name="password_keyboard_key_height_alpha">35dip</dimen>
-    <dimen name="password_keyboard_key_height_numeric">35dip</dimen>
-    <dimen name="password_keyboard_spacebar_vertical_correction">1dip</dimen>
-    <dimen name="password_keyboard_horizontalGap">1dip</dimen>
-    <dimen name="password_keyboard_verticalGap">2dip</dimen>
-    <dimen name="keyguard_lockscreen_outerring_diameter">220dip</dimen>
-    <dimen name="glowpadview_target_placement_radius">110dip</dimen>
-    <dimen name="glowpadview_glow_radius">60dip</dimen>
-    <dimen name="glowpadview_snap_margin">30dip</dimen>
-    <dimen name="glowpadview_inner_radius">12dip</dimen>
-    <dimen name="keyguard_lockscreen_clock_font_size">60dip</dimen>
-    <dimen name="keyguard_lockscreen_status_line_font_size">11dip</dimen>
-    <dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">1dip</dimen>
-    <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">1dip</dimen>
-    <dimen name="default_gap">1dip</dimen>
-    <dimen name="default_app_widget_padding_left">4dip</dimen>
-    <dimen name="default_app_widget_padding_top">4dip</dimen>
-    <dimen name="default_app_widget_padding_right">4dip</dimen>
-    <dimen name="default_app_widget_padding_bottom">4dip</dimen>
-    <dimen name="keyguard_lockscreen_clock_font_size">40dip</dimen>
-    <dimen name="keyguard_security_height">240dp</dimen>
+    <dimen name="keyguard_lockscreen_outerring_diameter">220dp</dimen>
+    <dimen name="glowpadview_target_placement_radius">110dp</dimen>
+    <dimen name="glowpadview_glow_radius">60dp</dimen>
+    <dimen name="glowpadview_snap_margin">30dp</dimen>
+    <dimen name="glowpadview_inner_radius">12dp</dimen>
+    <dimen name="keyguard_lockscreen_clock_font_size">54dp</dimen>
+    <dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">2dp</dimen>
+    <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">32dp</dimen>
+    <dimen name="default_gap">2dp</dimen>
+    <dimen name="default_app_widget_padding_top">1dp</dimen>
+    <dimen name="default_app_widget_padding_bottom">8dp</dimen>
+    <dimen name="kg_security_view_height">240dp</dimen>
+    <dimen name="kg_status_clock_font_size">54dp</dimen>
+    <dimen name="kg_status_date_font_size">12dp</dimen>
+    <dimen name="kg_small_widget_height">150dp</dimen>
 </resources>	
+    
