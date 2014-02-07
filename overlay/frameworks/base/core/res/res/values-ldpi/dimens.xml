@@ -7,6 +7,8 @@
     <dimen name="keyguard_lockscreen_clock_font_size">54dp</dimen>
     <dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">2dp</dimen>
     <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">32dp</dimen>
+    <dimen name="navigation_bar_height">25dp</dimen>
+    <dimen name="navigation_bar_height_landscape">25dp</dimen>
     <dimen name="default_gap">2dp</dimen>
     <dimen name="default_app_widget_padding_top">1dp</dimen>
     <dimen name="default_app_widget_padding_bottom">8dp</dimen>
