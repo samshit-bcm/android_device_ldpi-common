@@ -18,5 +18,7 @@
 */
 -->
 <resources>
-    <dimen name="navigation_bar_size">25dp</dimen>
+    <dimen name="status_bar_battery_height">17dp</dimen>
+    <dimen name="status_bar_battery_width">11.34dp</dimen>
+    <dimen name="status_bar_battery_bottom_padding">1.2dp</dimen>
 </resources>
