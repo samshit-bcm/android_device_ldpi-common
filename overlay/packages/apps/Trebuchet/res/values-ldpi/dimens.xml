@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="app_widget_preview_padding_left">25.0dip</dimen>
+    <dimen name="app_widget_preview_padding_right">33.0dip</dimen>
+    <dimen name="app_widget_preview_padding_top">4.5dip</dimen>
+    <dimen name="app_widget_preview_label_margin_top">-5.0dip</dimen>
     <dimen name="overview_panel_bottom_padding">10dp</dimen>
     <dimen name="overview_panel_button_spacing">20dp</dimen>
 </resources>
