@@ -1,0 +1,7 @@
+<resources>
+<!-- Miscellaneous -->
+
+    <!-- Adjust the default text size interpolation with this value -->
+    <integer name="config_icon_text_size_delta">2</integer>
+
+</resources>
