@@ -18,3 +18,4 @@
 DEVICE_PACKAGE_OVERLAYS += device/ldpi-common/overlay
 DEVICE_PACKAGE_OVERLAYS += device/ldpi-common/blank-overlay
 PRODUCT_PACKAGE_OVERLAYS += device/ldpi-common/blank-overlay
+TW_CUSTOM_THEME := device/ldpi-common/twrp-themes/240x320/res
